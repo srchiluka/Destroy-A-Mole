@@ -1,0 +1,31 @@
+
+.square {
+  width: 200px;
+  height: 200px;
+  border-style: outset;
+  border-color:dodgerblue;
+}   
+
+.grid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  width: 618px;
+  height: 618px;
+}
+
+.mole {
+  background-image: url('mole.jpg');
+  background-size: cover;
+}
+
+h1 {
+  text-align: right;
+  text-align: center;
+}
+
+h2 {
+  text-align: right;
+  text-align: center
+}
